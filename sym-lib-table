@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name local_symbols)(type Legacy)(uri ${KIPRJMOD}/libs/symbols.lib)(options "")(descr ""))
+  (lib (name local_connectors)(type Legacy)(uri ${KIPRJMOD}/libs/connectors.lib)(options "")(descr ""))
+)
