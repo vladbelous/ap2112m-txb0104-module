@@ -12,10 +12,16 @@ Optional:
 * If Micro USB is used, place either D1 (for extra safety), or solder JP1 jumper (e.g. 0R in 805)
 * JST PH (2.0mm) side conentor - may be useful for powering boards with such battery connector.
 
-Designed with KiCad 5 (www.kicad-pcb.org).
+A version of this PCB (with round holes for micro USB) can be [ordered on PCBs.io](https://PCBs.io/share/rb7jV).
+
+Designed with [KiCad 5](www.kicad-pcb.org).
 
 ## Schematic:
 ![schematic](img/schematic.png)
 
 ## Layout:
 ![layout](img/pcb_layout.png)
+
+## Render (PCBs.io):
+![render top](img/pcb_render_top.png)
+![render bottom](img/pcb_render_bottom.png)
