@@ -504,7 +504,7 @@ F 3 "" H 5850 2750 50  0001 C CNN
 	1    5850 2750
 	1    0    0    -1  
 $EndComp
-Text Notes 4250 3500 0    50   ~ 0
+Text Notes 4300 3550 0    50   ~ 0
 Pin headers
 Text Notes 5200 3200 0    50   ~ 0
 JST-PH (2.0mm) output\nfor battery-operated boards
@@ -580,4 +580,10 @@ Text Notes 3650 4250 0    70   ~ 0
 5V to 3.3V voltage regulator
 Text Notes 6400 4250 0    70   ~ 0
 Logic level shifter
+Text Notes 2650 3300 0    50   ~ 0
+Optional micro USB input,\nwith protection diode
+Text Notes 3400 2700 0    50   ~ 0
+Solder 0 Ohm (805)\nto bypass diode
+Text Notes 3700 6550 0    50   ~ 0
+SPDT switch\nor solder EN to 5V for always ON
 $EndSCHEMATC

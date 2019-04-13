@@ -1,4 +1,4 @@
-update=Friday, April 12, 2019 at 06:28:59 PM
+update=Friday, April 12, 2019 at 07:51:42 PM
 version=1
 last_client=kicad
 [general]
@@ -71,3 +71,13 @@ Type=2
 [pcbnew/Layer.B.Cu]
 Name=B.Cu
 Type=2
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
